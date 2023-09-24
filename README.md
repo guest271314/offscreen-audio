@@ -13,5 +13,15 @@ Offscreen audio, side panel controller, until we make audio in/from a ServiceWor
 - [sw-extension-audio
 ](https://github.com/guest271314/sw-extension-audio)
 
+# TODO: 
+
+- Convert from MP3, Opus, AAC, FLAC, etc. to floats on the fly 
+- Include folder and file drag and drop capability in controller to implements playlists
+- Implement and indefinite stream where peers can share to and listen to the same stream
+- Figure out a way to use Media Session with Web Audio API displayed in controlled from global media controls on the main window
+- ...
+
+We can already do most of the above. We just need to carefully incorporate such functionality into our controller panel.
+
 # License
 [WTFPLv2](http://www.wtfpl.net/about/)
