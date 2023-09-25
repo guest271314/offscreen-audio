@@ -1,0 +1,30 @@
+{
+  "name": "Offscreen audio",
+  "version": "1.0",
+  "description": "Offscreen audio",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "permissions": [
+    "offscreen",
+    "sidePanel"
+  ],
+  "side_panel": {
+    "default_path": "controller.html"
+  },
+  "icons": {
+    "16": "images/audio-headphones-16.png",
+    "48": "images/audio-headphones-48.png",
+    "128": "images/audio-headphones-128.png"
+  },
+  "action": {
+    "default_title": "Offscreen audio",
+    "default_popup": "controller.html"
+  },
+  "homepage_url": "https://github.com/guest271314/offscreen-audio"
+}
