@@ -12,6 +12,7 @@ Offscreen audio, side panel controller, until we make audio in/from a ServiceWor
 
 - [sw-extension-audio
 ](https://github.com/guest271314/sw-extension-audio)
+- [AudioWorkletStream](https://github.com/guest271314/AudioWorkletStream)
 
 # Installation:
 
