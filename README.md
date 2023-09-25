@@ -1,7 +1,7 @@
 # offscreen-audio
 Offscreen audio, side panel controller, until we make audio in/from a ServiceWorker without a document happen
 
-![Screenshot_2023-09-24_16-50-12](https://github.com/guest271314/offscreen-audio/assets/4174848/74361bc8-4a9d-4b6e-89d7-31fc6bd7ddff)
+![Screenshot_2023-09-24_17-58-53](https://github.com/guest271314/offscreen-audio/assets/4174848/9b06e260-0e76-4ca9-8e71-4cc6f596bb78)
 
 
 # References:
