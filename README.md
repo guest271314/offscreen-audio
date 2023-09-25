@@ -13,6 +13,10 @@ Offscreen audio, side panel controller, until we make audio in/from a ServiceWor
 - [sw-extension-audio
 ](https://github.com/guest271314/sw-extension-audio)
 
+# Installation:
+
+Download and unzip, or use `git` to fetch the repository. Navigate to `chrome://extensions`, toggle `Developer mode` to on, click `Load unpacked`, select the `offscreen-audio` folder.
+
 # TODO: 
 
 - Convert from MP3, Opus, AAC, FLAC, etc. to floats on the fly 
