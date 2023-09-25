@@ -21,7 +21,7 @@ Download and unzip, or use `git` to fetch the repository. Navigate to `chrome://
 
 - Convert from MP3, Opus, AAC, FLAC, etc. to floats on the fly 
 - Include folder and file drag and drop capability in controller to implements playlists
-- Implement and indefinite stream where peers can share to and listen to the same stream
+- Implement an indefinite stream where peers can add to, share, and listen to the same stream
 - Figure out a way to use Media Session with Web Audio API displayed in controlled from global media controls on the main window
 - ...
 
