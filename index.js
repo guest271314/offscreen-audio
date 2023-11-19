@@ -85,7 +85,7 @@ globalThis.workletStream = new AudioWorkletStream({
     length: 4,
   }, (_, index) => `${origin}house--64kbs-${index}-wav`),
   // urls: ["https://ia800301.us.archive.org/10/items/DELTAnine2013-12-11.WAV/Deltanine121113Pt3Wav.wav"],
-  latencyHint: 0
+  latencyHint: 0,
   workletOptions: {
     numberOfInputs: 1,
     numberOfOutputs: 2,
