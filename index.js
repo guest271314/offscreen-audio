@@ -89,7 +89,7 @@ globalThis.workletStream = new AudioWorkletStream({
   workletOptions: {
     numberOfInputs: 1,
     numberOfOutputs: 2,
-    channelCount: 2,
+    outputChannelCount: [2, 2],
     processorOptions: {
       codec: "audio/wav",
       offset: 0,
